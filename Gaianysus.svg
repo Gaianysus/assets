@@ -108,11 +108,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="130.18903"
-     inkscape:cy="227.38237"
+     inkscape:zoom="1.4"
+     inkscape:cx="101.56109"
+     inkscape:cy="256.7989"
      inkscape:document-units="px"
-     inkscape:current-layer="g6239"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -131,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3178,7 +3178,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Earth 1"
+     inkscape:label="SunLight"
      style="display:inline"
      transform="translate(-151.78241,-155.57318)">
     <circle
@@ -3218,7 +3218,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Gaianysus"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(-151.78241,-155.57318)"
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c724c5;fill-opacity:1;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.65306121"
@@ -3231,5 +3232,23 @@
          x="210.11174"
          y="547.79102"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:90px;font-family:Z003;-inkscape-font-specification:'Z003 Medium Italic';fill:#c724c5;fill-opacity:1;stroke:#0000ff;stroke-opacity:0.65306121">Gaianysus</tspan></text>
+  </g>
+  <g
+     transform="translate(-151.78241,-155.57318)"
+     inkscape:label="Gaianysus copy"
+     id="g4721"
+     inkscape:groupmode="layer">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4723"
+       y="562.79102"
+       x="178.50864"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.65306121"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:90px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#0000ff;fill-opacity:1;stroke:#008000;stroke-opacity:0.65306121"
+         y="562.79102"
+         x="178.50864"
+         id="tspan4725"
+         sodipodi:role="line">Gaianysus</tspan></text>
   </g>
 </svg>
