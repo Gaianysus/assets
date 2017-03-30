@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="123.97805mm"
-   height="123.97805mm"
-   viewBox="0 0 439.2923 439.2923"
+   width="412.48489mm"
+   height="131.35741mm"
+   viewBox="0 0 1461.5606 465.43963"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="Gaianysus.svg"
-   inkscape:export-filename="/mnt/unreal/git/assets/pics/Gaianysus.png"
+   sodipodi:docname="Gaianysus-Title.svg"
+   inkscape:export-filename="/mnt/unreal/git/assets/pics/Gaianysus-Title.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -157,11 +157,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-34.099997"
-     inkscape:cy="264.01254"
+     inkscape:zoom="0.7"
+     inkscape:cx="900.30294"
+     inkscape:cy="295.16457"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
@@ -180,7 +180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -188,20 +188,22 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="BG"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(1000.2389,49.647014)">
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97530865;paint-order:markers stroke fill"
+       style="fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:5.03992319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97530865;paint-order:markers stroke fill"
        id="rect7763"
-       width="464.0625"
-       height="450"
-       x="-5.3571429"
-       y="-0.66305315" />
+       width="1456.5208"
+       height="460.39969"
+       x="-997.71893"
+       y="-47.127052" />
   </g>
   <g
      inkscape:label="BG copy"
      id="g7767"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:none"
+     transform="translate(1000.2389,49.647014)">
     <rect
        y="-0.66305315"
        x="-5.3571429"
@@ -215,7 +217,7 @@
      inkscape:label="haze"
      id="g6209"
      inkscape:groupmode="layer"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <circle
        style="display:inline;opacity:1;fill:url(#radialGradient6249);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.32653061"
        id="circle6211"
@@ -228,7 +230,7 @@
      id="layer3"
      inkscape:label="potleaf"
      style="display:none"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <g
        id="g5483"
        transform="matrix(1.2875913,0,0,1.2875913,-107.30802,-95.158204)"
@@ -3217,7 +3219,7 @@
     </g>
   </g>
   <g
-     transform="translate(-151.78241,-155.57318)"
+     transform="translate(848.45648,-105.92617)"
      style="display:inline"
      inkscape:label="potleaf copy"
      id="g7758"
@@ -6213,7 +6215,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="star"
-     style="display:none">
+     style="display:none"
+     transform="translate(1000.2389,49.647014)">
     <path
        sodipodi:type="star"
        style="fill:#ff00ff;fill-opacity:1;stroke:#000080;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97530865;paint-order:markers stroke fill"
@@ -6237,7 +6240,7 @@
      id="g6239"
      inkscape:label="haze copy"
      style="display:none;opacity:0.328"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <circle
        r="219.64615"
        cy="375.21933"
@@ -6248,7 +6251,7 @@
        inkscape:export-ydpi="90" />
   </g>
   <g
-     transform="translate(-151.78241,-155.57318)"
+     transform="translate(848.45648,-105.92617)"
      style="display:none;opacity:0.328"
      inkscape:label="haze copy copy"
      id="g6394"
@@ -6267,7 +6270,7 @@
      id="layer2"
      inkscape:label="Earth"
      style="display:none;opacity:0.98999999"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <circle
        r="84.285713"
        cy="375.21933"
@@ -6283,7 +6286,7 @@
        clip-path="url(#clipPath5479)" />
   </g>
   <g
-     transform="translate(-151.78241,-155.57318)"
+     transform="translate(848.45648,-105.92617)"
      style="display:inline;opacity:0.98999999"
      inkscape:label="Earth copy"
      id="g6410"
@@ -6306,8 +6309,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="SunLight"
-     style="display:inline;opacity:0.712"
-     transform="translate(-151.78241,-155.57318)">
+     style="display:inline;opacity:0.71199999"
+     transform="translate(848.45648,-105.92617)">
     <circle
        style="display:inline;opacity:1;fill:url(#radialGradient6182);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.51428576"
        id="circle6162"
@@ -6320,7 +6323,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:none"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <circle
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3336"
@@ -6333,7 +6336,7 @@
      id="g5470"
      inkscape:groupmode="layer"
      inkscape:label="Vignettte copy"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <circle
        r="84.285713"
        cy="375.21933"
@@ -6345,7 +6348,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Gaianysus"
-     transform="translate(-151.78241,-155.57318)"
+     transform="translate(848.45648,-105.92617)"
      style="display:none">
     <text
        xml:space="preserve"
@@ -6360,21 +6363,21 @@
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:90px;line-height:1.25;font-family:Z003;-inkscape-font-specification:'Z003 Medium Italic';fill:#c724c5;fill-opacity:1;stroke:#0000ff;stroke-opacity:0.65306121">Gaianysus</tspan></text>
   </g>
   <g
-     transform="translate(-151.78241,-155.57318)"
+     transform="translate(848.45648,-105.92617)"
      inkscape:label="Gaianysus copy"
      id="g4721"
      inkscape:groupmode="layer"
      style="display:inline">
     <text
        id="text4723"
-       y="487.8634"
-       x="188.78712"
-       style="font-style:normal;font-weight:normal;font-size:10.37931061px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:2.43265104;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65306121"
+       y="327.5791"
+       x="-1086.9119"
+       style="font-style:normal;font-weight:normal;font-size:27.85027122px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:6.52740812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65306121"
        xml:space="preserve"
-       transform="scale(0.86089621,1.1615802)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:77.84483337px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:2.43265104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65306121"
-         y="487.8634"
-         x="188.78712"
+       transform="scale(0.71328344,1.4019672)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:208.87705994px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:6.52740812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65306121"
+         y="327.5791"
+         x="-1086.9119"
          id="tspan4725"
          sodipodi:role="line">Gaianysus.com</tspan></text>
   </g>
@@ -6383,7 +6386,7 @@
      inkscape:groupmode="layer"
      id="g6436"
      inkscape:label="Gaianysus copy copy"
-     transform="translate(-151.78241,-155.57318)">
+     transform="translate(848.45648,-105.92617)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65306121"
