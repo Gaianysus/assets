@@ -85,11 +85,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16794594"
-     inkscape:cx="1917.0933"
-     inkscape:cy="564.44553"
+     inkscape:zoom="0.67178376"
+     inkscape:cx="2571.5417"
+     inkscape:cy="1818.2204"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer21"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -101,13 +101,7 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="1773.7627,145.62104"
-       orientation="0,1"
-       id="guide177"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -129,13 +123,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/Noah8s colorful box-Dear Josh.jpg"
        xlink:href="Noah8s colorful box-Dear Josh.jpg"
-       width="1946.402"
-       height="788.50067"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4566"
+       y="-221.98248"
        x="-1095.6653"
-       y="-221.98248" />
+       id="image4566"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="788.50067"
+       width="1946.402" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -907,74 +901,2298 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="qrcodes">
-    <image
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       y="586.06067"
-       x="747.24353"
-       id="image4737"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       style="display:inline;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="53.429924"
-       width="53.429924" />
-    <image
-       width="44.37133"
-       height="44.37133"
-       preserveAspectRatio="none"
-       style="display:inline;image-rendering:optimizeQuality"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       id="image4632"
-       x="1709.385"
-       y="598.10834"
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png" />
-    <image
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       y="404.47217"
-       x="1917.3406"
-       id="image4634"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       style="display:inline;image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="19.733389"
-       width="19.733389" />
-    <image
-       width="16.668535"
-       height="16.668535"
-       preserveAspectRatio="none"
-       style="display:inline;image-rendering:optimizeQuality"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       id="image183"
-       x="192.77263"
-       y="-795.375"
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       transform="rotate(90)" />
-    <image
-       width="13.781363"
-       height="13.781363"
-       preserveAspectRatio="none"
-       style="display:inline;image-rendering:optimizeQuality"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
-       id="image185"
-       x="963.96344"
-       y="639.32684"
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png" />
+    <g
+       id="QRcode"
+       transform="matrix(1.6065815,0,0,1.6065815,747.65626,586.4734)">
+      <rect
+         id="rect1531"
+         height="33"
+         width="33"
+         y="0"
+         x="0"
+         style="fill:#ff00ff" />
+      <g
+         id="Pattern">
+        <rect
+           id="rect1533"
+           height="1"
+           width="1"
+           y="4"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1535"
+           height="1"
+           width="1"
+           y="4"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1537"
+           height="1"
+           width="1"
+           y="4"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1539"
+           height="1"
+           width="1"
+           y="4"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1541"
+           height="1"
+           width="1"
+           y="4"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1543"
+           height="1"
+           width="1"
+           y="4"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1545"
+           height="1"
+           width="1"
+           y="4"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1547"
+           height="1"
+           width="1"
+           y="4"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1549"
+           height="1"
+           width="1"
+           y="4"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1551"
+           height="1"
+           width="1"
+           y="4"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1553"
+           height="1"
+           width="1"
+           y="4"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1555"
+           height="1"
+           width="1"
+           y="4"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1557"
+           height="1"
+           width="1"
+           y="4"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1559"
+           height="1"
+           width="1"
+           y="4"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1561"
+           height="1"
+           width="1"
+           y="4"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1563"
+           height="1"
+           width="1"
+           y="4"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1565"
+           height="1"
+           width="1"
+           y="4"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1567"
+           height="1"
+           width="1"
+           y="4"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1569"
+           height="1"
+           width="1"
+           y="4"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1571"
+           height="1"
+           width="1"
+           y="5"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1573"
+           height="1"
+           width="1"
+           y="5"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1575"
+           height="1"
+           width="1"
+           y="5"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1577"
+           height="1"
+           width="1"
+           y="5"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1579"
+           height="1"
+           width="1"
+           y="5"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1581"
+           height="1"
+           width="1"
+           y="5"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1583"
+           height="1"
+           width="1"
+           y="5"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1585"
+           height="1"
+           width="1"
+           y="5"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1587"
+           height="1"
+           width="1"
+           y="5"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1589"
+           height="1"
+           width="1"
+           y="5"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1591"
+           height="1"
+           width="1"
+           y="6"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1593"
+           height="1"
+           width="1"
+           y="6"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1595"
+           height="1"
+           width="1"
+           y="6"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1597"
+           height="1"
+           width="1"
+           y="6"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1599"
+           height="1"
+           width="1"
+           y="6"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1601"
+           height="1"
+           width="1"
+           y="6"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1603"
+           height="1"
+           width="1"
+           y="6"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1605"
+           height="1"
+           width="1"
+           y="6"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1607"
+           height="1"
+           width="1"
+           y="6"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1609"
+           height="1"
+           width="1"
+           y="6"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1611"
+           height="1"
+           width="1"
+           y="6"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1613"
+           height="1"
+           width="1"
+           y="6"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1615"
+           height="1"
+           width="1"
+           y="6"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1617"
+           height="1"
+           width="1"
+           y="6"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1619"
+           height="1"
+           width="1"
+           y="6"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1621"
+           height="1"
+           width="1"
+           y="7"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1623"
+           height="1"
+           width="1"
+           y="7"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1625"
+           height="1"
+           width="1"
+           y="7"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1627"
+           height="1"
+           width="1"
+           y="7"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1629"
+           height="1"
+           width="1"
+           y="7"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1631"
+           height="1"
+           width="1"
+           y="7"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1633"
+           height="1"
+           width="1"
+           y="7"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1635"
+           height="1"
+           width="1"
+           y="7"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1637"
+           height="1"
+           width="1"
+           y="7"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1639"
+           height="1"
+           width="1"
+           y="7"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1641"
+           height="1"
+           width="1"
+           y="7"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1643"
+           height="1"
+           width="1"
+           y="7"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1645"
+           height="1"
+           width="1"
+           y="7"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1647"
+           height="1"
+           width="1"
+           y="8"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1649"
+           height="1"
+           width="1"
+           y="8"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1651"
+           height="1"
+           width="1"
+           y="8"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1653"
+           height="1"
+           width="1"
+           y="8"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1655"
+           height="1"
+           width="1"
+           y="8"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1657"
+           height="1"
+           width="1"
+           y="8"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1659"
+           height="1"
+           width="1"
+           y="8"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1661"
+           height="1"
+           width="1"
+           y="8"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1663"
+           height="1"
+           width="1"
+           y="8"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1665"
+           height="1"
+           width="1"
+           y="8"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1667"
+           height="1"
+           width="1"
+           y="8"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1669"
+           height="1"
+           width="1"
+           y="8"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1671"
+           height="1"
+           width="1"
+           y="8"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1673"
+           height="1"
+           width="1"
+           y="8"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1675"
+           height="1"
+           width="1"
+           y="8"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1677"
+           height="1"
+           width="1"
+           y="9"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1679"
+           height="1"
+           width="1"
+           y="9"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1681"
+           height="1"
+           width="1"
+           y="9"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1683"
+           height="1"
+           width="1"
+           y="9"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1685"
+           height="1"
+           width="1"
+           y="9"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1687"
+           height="1"
+           width="1"
+           y="9"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1689"
+           height="1"
+           width="1"
+           y="9"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1691"
+           height="1"
+           width="1"
+           y="9"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1693"
+           height="1"
+           width="1"
+           y="9"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1695"
+           height="1"
+           width="1"
+           y="10"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1697"
+           height="1"
+           width="1"
+           y="10"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1699"
+           height="1"
+           width="1"
+           y="10"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1701"
+           height="1"
+           width="1"
+           y="10"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1703"
+           height="1"
+           width="1"
+           y="10"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1705"
+           height="1"
+           width="1"
+           y="10"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1707"
+           height="1"
+           width="1"
+           y="10"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1709"
+           height="1"
+           width="1"
+           y="10"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1711"
+           height="1"
+           width="1"
+           y="10"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1713"
+           height="1"
+           width="1"
+           y="10"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1715"
+           height="1"
+           width="1"
+           y="10"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1717"
+           height="1"
+           width="1"
+           y="10"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1719"
+           height="1"
+           width="1"
+           y="10"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1721"
+           height="1"
+           width="1"
+           y="10"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1723"
+           height="1"
+           width="1"
+           y="10"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1725"
+           height="1"
+           width="1"
+           y="10"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1727"
+           height="1"
+           width="1"
+           y="10"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1729"
+           height="1"
+           width="1"
+           y="10"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1731"
+           height="1"
+           width="1"
+           y="10"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1733"
+           height="1"
+           width="1"
+           y="11"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1735"
+           height="1"
+           width="1"
+           y="11"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1737"
+           height="1"
+           width="1"
+           y="11"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1739"
+           height="1"
+           width="1"
+           y="11"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1741"
+           height="1"
+           width="1"
+           y="12"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1743"
+           height="1"
+           width="1"
+           y="12"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1745"
+           height="1"
+           width="1"
+           y="12"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1747"
+           height="1"
+           width="1"
+           y="12"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1749"
+           height="1"
+           width="1"
+           y="12"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1751"
+           height="1"
+           width="1"
+           y="12"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1753"
+           height="1"
+           width="1"
+           y="12"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1755"
+           height="1"
+           width="1"
+           y="12"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1757"
+           height="1"
+           width="1"
+           y="12"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1759"
+           height="1"
+           width="1"
+           y="12"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1761"
+           height="1"
+           width="1"
+           y="12"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1763"
+           height="1"
+           width="1"
+           y="12"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1765"
+           height="1"
+           width="1"
+           y="12"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1767"
+           height="1"
+           width="1"
+           y="12"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1769"
+           height="1"
+           width="1"
+           y="13"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1771"
+           height="1"
+           width="1"
+           y="13"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1773"
+           height="1"
+           width="1"
+           y="13"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1775"
+           height="1"
+           width="1"
+           y="13"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1777"
+           height="1"
+           width="1"
+           y="13"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1779"
+           height="1"
+           width="1"
+           y="13"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1781"
+           height="1"
+           width="1"
+           y="13"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1783"
+           height="1"
+           width="1"
+           y="13"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1785"
+           height="1"
+           width="1"
+           y="13"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1787"
+           height="1"
+           width="1"
+           y="13"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1789"
+           height="1"
+           width="1"
+           y="14"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1791"
+           height="1"
+           width="1"
+           y="14"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1793"
+           height="1"
+           width="1"
+           y="14"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1795"
+           height="1"
+           width="1"
+           y="14"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1797"
+           height="1"
+           width="1"
+           y="14"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1799"
+           height="1"
+           width="1"
+           y="14"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1801"
+           height="1"
+           width="1"
+           y="14"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1803"
+           height="1"
+           width="1"
+           y="14"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1805"
+           height="1"
+           width="1"
+           y="14"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1807"
+           height="1"
+           width="1"
+           y="14"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1809"
+           height="1"
+           width="1"
+           y="14"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1811"
+           height="1"
+           width="1"
+           y="14"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1813"
+           height="1"
+           width="1"
+           y="14"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1815"
+           height="1"
+           width="1"
+           y="14"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1817"
+           height="1"
+           width="1"
+           y="15"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1819"
+           height="1"
+           width="1"
+           y="15"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1821"
+           height="1"
+           width="1"
+           y="15"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1823"
+           height="1"
+           width="1"
+           y="15"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1825"
+           height="1"
+           width="1"
+           y="15"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1827"
+           height="1"
+           width="1"
+           y="15"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1829"
+           height="1"
+           width="1"
+           y="15"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1831"
+           height="1"
+           width="1"
+           y="15"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1833"
+           height="1"
+           width="1"
+           y="15"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1835"
+           height="1"
+           width="1"
+           y="15"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1837"
+           height="1"
+           width="1"
+           y="15"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1839"
+           height="1"
+           width="1"
+           y="15"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1841"
+           height="1"
+           width="1"
+           y="16"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1843"
+           height="1"
+           width="1"
+           y="16"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1845"
+           height="1"
+           width="1"
+           y="16"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1847"
+           height="1"
+           width="1"
+           y="16"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1849"
+           height="1"
+           width="1"
+           y="16"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1851"
+           height="1"
+           width="1"
+           y="16"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1853"
+           height="1"
+           width="1"
+           y="16"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1855"
+           height="1"
+           width="1"
+           y="16"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1857"
+           height="1"
+           width="1"
+           y="16"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1859"
+           height="1"
+           width="1"
+           y="16"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1861"
+           height="1"
+           width="1"
+           y="16"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1863"
+           height="1"
+           width="1"
+           y="16"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1865"
+           height="1"
+           width="1"
+           y="16"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1867"
+           height="1"
+           width="1"
+           y="16"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1869"
+           height="1"
+           width="1"
+           y="16"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1871"
+           height="1"
+           width="1"
+           y="16"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1873"
+           height="1"
+           width="1"
+           y="17"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1875"
+           height="1"
+           width="1"
+           y="17"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1877"
+           height="1"
+           width="1"
+           y="17"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1879"
+           height="1"
+           width="1"
+           y="17"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1881"
+           height="1"
+           width="1"
+           y="17"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1883"
+           height="1"
+           width="1"
+           y="17"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1885"
+           height="1"
+           width="1"
+           y="17"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1887"
+           height="1"
+           width="1"
+           y="17"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1889"
+           height="1"
+           width="1"
+           y="17"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1891"
+           height="1"
+           width="1"
+           y="17"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1893"
+           height="1"
+           width="1"
+           y="17"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1895"
+           height="1"
+           width="1"
+           y="17"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1897"
+           height="1"
+           width="1"
+           y="17"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1899"
+           height="1"
+           width="1"
+           y="18"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1901"
+           height="1"
+           width="1"
+           y="18"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1903"
+           height="1"
+           width="1"
+           y="18"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1905"
+           height="1"
+           width="1"
+           y="18"
+           x="11"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1907"
+           height="1"
+           width="1"
+           y="18"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1909"
+           height="1"
+           width="1"
+           y="18"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1911"
+           height="1"
+           width="1"
+           y="18"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1913"
+           height="1"
+           width="1"
+           y="18"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1915"
+           height="1"
+           width="1"
+           y="18"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1917"
+           height="1"
+           width="1"
+           y="18"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1919"
+           height="1"
+           width="1"
+           y="18"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1921"
+           height="1"
+           width="1"
+           y="18"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1923"
+           height="1"
+           width="1"
+           y="18"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1925"
+           height="1"
+           width="1"
+           y="18"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1927"
+           height="1"
+           width="1"
+           y="19"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1929"
+           height="1"
+           width="1"
+           y="19"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1931"
+           height="1"
+           width="1"
+           y="19"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1933"
+           height="1"
+           width="1"
+           y="19"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1935"
+           height="1"
+           width="1"
+           y="19"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1937"
+           height="1"
+           width="1"
+           y="19"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1939"
+           height="1"
+           width="1"
+           y="19"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1941"
+           height="1"
+           width="1"
+           y="19"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1943"
+           height="1"
+           width="1"
+           y="19"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1945"
+           height="1"
+           width="1"
+           y="20"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1947"
+           height="1"
+           width="1"
+           y="20"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1949"
+           height="1"
+           width="1"
+           y="20"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1951"
+           height="1"
+           width="1"
+           y="20"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1953"
+           height="1"
+           width="1"
+           y="20"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1955"
+           height="1"
+           width="1"
+           y="20"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1957"
+           height="1"
+           width="1"
+           y="20"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1959"
+           height="1"
+           width="1"
+           y="20"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1961"
+           height="1"
+           width="1"
+           y="20"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1963"
+           height="1"
+           width="1"
+           y="20"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1965"
+           height="1"
+           width="1"
+           y="20"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1967"
+           height="1"
+           width="1"
+           y="20"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1969"
+           height="1"
+           width="1"
+           y="20"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1971"
+           height="1"
+           width="1"
+           y="20"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1973"
+           height="1"
+           width="1"
+           y="21"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1975"
+           height="1"
+           width="1"
+           y="21"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1977"
+           height="1"
+           width="1"
+           y="21"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1979"
+           height="1"
+           width="1"
+           y="21"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1981"
+           height="1"
+           width="1"
+           y="21"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1983"
+           height="1"
+           width="1"
+           y="21"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1985"
+           height="1"
+           width="1"
+           y="21"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1987"
+           height="1"
+           width="1"
+           y="21"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1989"
+           height="1"
+           width="1"
+           y="21"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1991"
+           height="1"
+           width="1"
+           y="22"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1993"
+           height="1"
+           width="1"
+           y="22"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1995"
+           height="1"
+           width="1"
+           y="22"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1997"
+           height="1"
+           width="1"
+           y="22"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect1999"
+           height="1"
+           width="1"
+           y="22"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2001"
+           height="1"
+           width="1"
+           y="22"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2003"
+           height="1"
+           width="1"
+           y="22"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2005"
+           height="1"
+           width="1"
+           y="22"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2007"
+           height="1"
+           width="1"
+           y="22"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2009"
+           height="1"
+           width="1"
+           y="22"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2011"
+           height="1"
+           width="1"
+           y="22"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2013"
+           height="1"
+           width="1"
+           y="22"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2015"
+           height="1"
+           width="1"
+           y="22"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2017"
+           height="1"
+           width="1"
+           y="22"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2019"
+           height="1"
+           width="1"
+           y="22"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2021"
+           height="1"
+           width="1"
+           y="22"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2023"
+           height="1"
+           width="1"
+           y="22"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2025"
+           height="1"
+           width="1"
+           y="23"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2027"
+           height="1"
+           width="1"
+           y="23"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2029"
+           height="1"
+           width="1"
+           y="23"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2031"
+           height="1"
+           width="1"
+           y="23"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2033"
+           height="1"
+           width="1"
+           y="23"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2035"
+           height="1"
+           width="1"
+           y="23"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2037"
+           height="1"
+           width="1"
+           y="23"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2039"
+           height="1"
+           width="1"
+           y="23"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2041"
+           height="1"
+           width="1"
+           y="23"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2043"
+           height="1"
+           width="1"
+           y="24"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2045"
+           height="1"
+           width="1"
+           y="24"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2047"
+           height="1"
+           width="1"
+           y="24"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2049"
+           height="1"
+           width="1"
+           y="24"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2051"
+           height="1"
+           width="1"
+           y="24"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2053"
+           height="1"
+           width="1"
+           y="24"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2055"
+           height="1"
+           width="1"
+           y="24"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2057"
+           height="1"
+           width="1"
+           y="24"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2059"
+           height="1"
+           width="1"
+           y="24"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2061"
+           height="1"
+           width="1"
+           y="24"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2063"
+           height="1"
+           width="1"
+           y="24"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2065"
+           height="1"
+           width="1"
+           y="24"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2067"
+           height="1"
+           width="1"
+           y="24"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2069"
+           height="1"
+           width="1"
+           y="24"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2071"
+           height="1"
+           width="1"
+           y="24"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2073"
+           height="1"
+           width="1"
+           y="25"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2075"
+           height="1"
+           width="1"
+           y="25"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2077"
+           height="1"
+           width="1"
+           y="25"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2079"
+           height="1"
+           width="1"
+           y="25"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2081"
+           height="1"
+           width="1"
+           y="25"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2083"
+           height="1"
+           width="1"
+           y="25"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2085"
+           height="1"
+           width="1"
+           y="25"
+           x="14"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2087"
+           height="1"
+           width="1"
+           y="25"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2089"
+           height="1"
+           width="1"
+           y="25"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2091"
+           height="1"
+           width="1"
+           y="25"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2093"
+           height="1"
+           width="1"
+           y="25"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2095"
+           height="1"
+           width="1"
+           y="25"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2097"
+           height="1"
+           width="1"
+           y="26"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2099"
+           height="1"
+           width="1"
+           y="26"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2101"
+           height="1"
+           width="1"
+           y="26"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2103"
+           height="1"
+           width="1"
+           y="26"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2105"
+           height="1"
+           width="1"
+           y="26"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2107"
+           height="1"
+           width="1"
+           y="26"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2109"
+           height="1"
+           width="1"
+           y="26"
+           x="18"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2111"
+           height="1"
+           width="1"
+           y="26"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2113"
+           height="1"
+           width="1"
+           y="26"
+           x="24"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2115"
+           height="1"
+           width="1"
+           y="26"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2117"
+           height="1"
+           width="1"
+           y="26"
+           x="26"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2119"
+           height="1"
+           width="1"
+           y="26"
+           x="28"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2121"
+           height="1"
+           width="1"
+           y="27"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2123"
+           height="1"
+           width="1"
+           y="27"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2125"
+           height="1"
+           width="1"
+           y="27"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2127"
+           height="1"
+           width="1"
+           y="27"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2129"
+           height="1"
+           width="1"
+           y="27"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2131"
+           height="1"
+           width="1"
+           y="27"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2133"
+           height="1"
+           width="1"
+           y="27"
+           x="21"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2135"
+           height="1"
+           width="1"
+           y="27"
+           x="22"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2137"
+           height="1"
+           width="1"
+           y="27"
+           x="25"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2139"
+           height="1"
+           width="1"
+           y="28"
+           x="4"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2141"
+           height="1"
+           width="1"
+           y="28"
+           x="5"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2143"
+           height="1"
+           width="1"
+           y="28"
+           x="6"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2145"
+           height="1"
+           width="1"
+           y="28"
+           x="7"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2147"
+           height="1"
+           width="1"
+           y="28"
+           x="8"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2149"
+           height="1"
+           width="1"
+           y="28"
+           x="9"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2151"
+           height="1"
+           width="1"
+           y="28"
+           x="10"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2153"
+           height="1"
+           width="1"
+           y="28"
+           x="12"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2155"
+           height="1"
+           width="1"
+           y="28"
+           x="13"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2157"
+           height="1"
+           width="1"
+           y="28"
+           x="15"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2159"
+           height="1"
+           width="1"
+           y="28"
+           x="16"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2161"
+           height="1"
+           width="1"
+           y="28"
+           x="17"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2163"
+           height="1"
+           width="1"
+           y="28"
+           x="19"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2165"
+           height="1"
+           width="1"
+           y="28"
+           x="20"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2167"
+           height="1"
+           width="1"
+           y="28"
+           x="23"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2169"
+           height="1"
+           width="1"
+           y="28"
+           x="27"
+           style="fill:#0000ff" />
+        <rect
+           id="rect2171"
+           height="1"
+           width="1"
+           y="28"
+           x="28"
+           style="fill:#0000ff" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use2508"
+       id="use2510"
+       transform="matrix(0.4661477,0,0,0.4661477,1116.0609,124.60303)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#QRcode"
+       id="use2506"
+       transform="matrix(0.2601968,0,0,0.2601968,769.41214,486.72836)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#QRcode"
+       id="use2508"
+       transform="matrix(0.80685226,0,0,0.80685226,1115.2471,126.74573)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#QRcode"
+       id="use2512"
+       transform="matrix(0,0.34863717,-0.34863717,0,1002.1858,-69.70346)"
+       width="100%"
+       height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="bluqrcodes 1"
-     style="display:inline">
-    <image
-       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-pink.png"
-       y="598.10834"
-       x="1709.385"
-       id="image5527"
-       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-pink.png"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="44.771297"
-       width="44.771297" />
-  </g>
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer7"
@@ -1083,13 +3301,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/rohs.png"
        xlink:href="rohs.png"
-       width="124.25817"
-       height="24.851631"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4656"
+       y="621.57275"
        x="1569.7094"
-       y="621.57275" />
+       id="image4656"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="24.851631"
+       width="124.25817" />
     <rect
        y="619.70367"
        x="621.20636"
@@ -1100,13 +3318,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/rohs.png"
        xlink:href="rohs.png"
-       y="618.39771"
-       x="617.21198"
-       id="image207"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="124.25817"
        height="24.851631"
-       width="124.25817" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image207"
+       x="617.21198"
+       y="618.39771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1116,13 +3334,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8sR.png"
        xlink:href="8sR.png"
-       width="516.09253"
-       height="243.94537"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4677"
+       y="375.37326"
        x="979.18115"
-       y="375.37326" />
+       id="image4677"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="243.94537"
+       width="516.09253" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1132,13 +3350,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8s.png"
        xlink:href="8s.png"
-       width="463.77722"
-       height="197.82834"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4612"
+       y="436.99976"
        x="40.302097"
-       y="436.99976" />
+       id="image4612"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="197.82834"
+       width="463.77722" />
   </g>
   <g
      inkscape:groupmode="layer"
