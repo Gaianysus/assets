@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1946.402mm"
+   height="788.50067mm"
+   viewBox="0 0 1946.402 788.50067"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="8s.svg"
+   inkscape:export-filename="/mnt/unreal/git/assets-gaianysus/boxtemplates/8s.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6257">
+      <stop
+         style="stop-color:#005eff;stop-opacity:1;"
+         offset="0"
+         id="stop6253" />
+      <stop
+         style="stop-color:#0082df;stop-opacity:1"
+         offset="1"
+         id="stop6255" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="781.00002"
+       height="781.00002"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-154.63553,-356.10122)"
+       id="pattern6235">
+      <image
+         width="781"
+         height="781"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="file:///home/thoth/git/assets-gaianysus/fullPattern.png"
+         id="image4790"
+         x="0"
+         y="-2.2737368e-13"
+         sodipodi:absref="/home/thoth/git/assets-gaianysus/fullPattern.png" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6257"
+       id="linearGradient6259"
+       x1="1108.5581"
+       y1="281.3942"
+       x2="1346.09"
+       y2="281.3942"
+       gradientUnits="userSpaceOnUse" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="781.00002"
+       height="781.00002"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-234.70468,-241.39043)"
+       id="pattern5495">
+      <image
+         width="781"
+         height="781"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="file:///home/thoth/git/assets-gaianysus/fullPattern.png"
+         id="image5492"
+         x="0"
+         y="-1.1368684e-13"
+         sodipodi:absref="/home/thoth/git/assets-gaianysus/fullPattern.png" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16794594"
+     inkscape:cx="3119.2206"
+     inkscape:cy="1790.0945"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="1773.7627,145.62104"
+       orientation="0,1"
+       id="guide177"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1095.6653,221.98248)"
+     style="display:none">
+    <image
+       sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/Noah8s colorful box-Dear Josh.jpg"
+       xlink:href="Noah8s colorful box-Dear Josh.jpg"
+       y="-221.98248"
+       x="-1095.6653"
+       id="image4566"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="788.50067"
+       width="1946.402" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="sourceBG"
+     style="display:none">
+    <rect
+       style="fill:url(#pattern5495);stroke:none"
+       width="206.63959"
+       height="206.63959"
+       x="-234.70468"
+       y="-241.39043"
+       id="rect5498" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="BG"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:url(#pattern6235);fill-opacity:1;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.80161941;paint-order:markers stroke fill"
+       id="rect4793"
+       width="1946.402"
+       height="788.50061"
+       x="0.55700755"
+       y="-2.9101561e-06" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="nuBG">
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/boxtemplates/bg.png"
+       y="-26.803486"
+       x="-66.163933"
+       id="image294"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/boxtemplates/bg.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="842.10767"
+       width="2078.7297" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="blue blocks"
+     style="display:inline">
+    <rect
+       y="335.04855"
+       x="808.86182"
+       height="29.967041"
+       width="165.23132"
+       id="rect6364"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:1.08507693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6304"
+       width="164.90529"
+       height="50.781212"
+       x="809.02484"
+       y="241.39992" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:0.52861869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6398"
+       width="165.79474"
+       height="7.0880957"
+       x="808.58014"
+       y="318.81281" />
+    <rect
+       y="304.29224"
+       x="808.5589"
+       height="5.9946198"
+       width="165.83716"
+       id="rect6400"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:0.48619905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:2.6023252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6422"
+       width="280.10767"
+       height="101.67481"
+       x="107.70376"
+       y="276.05139" />
+    <rect
+       y="65.140656"
+       x="70.336945"
+       height="101.67481"
+       width="296.68579"
+       id="rect6424"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:2.67822742;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="247.44754"
+       x="1773.6201"
+       height="50.781212"
+       width="164.90529"
+       id="rect6428"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6440"
+       width="165.80951"
+       height="6.5168791"
+       x="1773.6201"
+       y="309.34143" />
+    <rect
+       y="251.48293"
+       x="1096.5424"
+       height="101.67481"
+       width="296.68579"
+       id="rect4656"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:2.67822742;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="238.58966"
+       x="392.58289"
+       height="159.22119"
+       width="406.95883"
+       id="rect5360"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:3.92525744;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="327.10919"
+       x="1773.9254"
+       height="31.785494"
+       width="165.19901"
+       id="rect5589"
+       style="opacity:1;fill:#0000ff;fill-opacity:0.98688522;stroke:#ff00ff;stroke-width:1.11740494;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="pink blocks"
+     style="display:inline">
+    <rect
+       y="300.87463"
+       x="1773.6201"
+       height="6.5168791"
+       width="165.80951"
+       id="rect6434"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="296.80713"
+       x="808.57275"
+       height="6.5168791"
+       width="165.80951"
+       id="rect6306"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6308"
+       width="165.80951"
+       height="6.5168791"
+       x="808.57275"
+       y="311.23969" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6310"
+       width="165.80951"
+       height="6.5168791"
+       x="808.57275"
+       y="327.00858" />
+    <rect
+       y="368.18906"
+       x="808.57275"
+       height="6.5168791"
+       width="165.80951"
+       id="rect6414"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.50689375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5583"
+       width="165.80951"
+       height="6.5168791"
+       x="1773.6201"
+       y="317.80786" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="pink strips bottom"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.62085813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5322"
+       width="1921.8666"
+       height="8.5863829"
+       x="24.549433"
+       y="659.03815" />
+    <rect
+       y="653.13513"
+       x="24.632135"
+       height="2.6732023"
+       width="1921.7838"
+       id="rect5324"
+       style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.34641269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+  </g>
+  <g
+     inkscape:label="blue strips bottom"
+     id="g5330"
+     inkscape:groupmode="layer">
+    <rect
+       y="659.03815"
+       x="24.549433"
+       height="8.5863829"
+       width="1921.8666"
+       id="rect5326"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.62085813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.34641269;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5328"
+       width="1921.7838"
+       height="2.6732023"
+       x="24.632135"
+       y="653.13513" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Logo"
+     style="display:inline">
+    <image
+       width="157.15315"
+       height="156.6031"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       id="image4652"
+       x="1015.5372"
+       y="216.60086"
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       y="-493.57007"
+       x="40.869293"
+       id="image4658"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="156.6031"
+       width="157.15315"
+       transform="rotate(90)" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       y="240.44627"
+       x="28.447041"
+       id="image4654"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       style="display:inline;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="157.43988"
+       width="157.99286" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="pics">
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/8888.jpg"
+       y="530.19952"
+       x="-209.44116"
+       id="image4691"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/8888.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="236.86508"
+       width="177.6488"
+       transform="rotate(-90)" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/LY-high quality 1200w noah 8 led grow light.jpg"
+       y="396.66614"
+       x="811.4353"
+       id="image5069"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/LY-high%20quality%201200w%20noah%208%20led%20grow%20light.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="242.66072"
+       width="166.30951" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/10259885_1490952951118238_8034805128861859412_n.jpg"
+       y="421.13361"
+       x="1773.7627"
+       id="image4785"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/10259885_1490952951118238_8034805128861859412_n.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="221.74603"
+       width="166.30952" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="279.73724"
+       y="364.58398"
+       id="text6267"><tspan
+         sodipodi:role="line"
+         x="279.73724"
+         y="364.58398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6265">gaia-8S</tspan></text>
+    <text
+       id="text5323"
+       y="-72.555717"
+       x="-350.98404"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(-1)"><tspan
+         id="tspan5321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:none;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="-72.555717"
+         x="-350.98404"
+         sodipodi:role="line">HTTP://GAIANYSUS.COM/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-172.70685"
+       y="-75.438873"
+       id="text6275"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         x="-172.70685"
+         y="-75.438873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6273">gaia-8S</tspan></text>
+    <text
+       id="text6295"
+       y="289.68115"
+       x="916.70154"
+       style="font-style:normal;font-weight:normal;font-size:28.37676239px;line-height:22.76052856px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:0.78824347;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1883812px;line-height:22.76052856px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.47795641px;fill:#ff00ff;stroke:#0000ec;stroke-width:0.78824347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="289.68115"
+         x="916.70154"
+         sodipodi:role="line">gaia-8S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.37676239px;line-height:22.76052856px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:0.78824347;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1881.01"
+       y="295.02655"
+       id="text6287"><tspan
+         sodipodi:role="line"
+         x="1881.01"
+         y="295.02655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1883812px;line-height:22.76052856px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.47795641px;fill:#ff00ff;stroke:#0000ec;stroke-width:0.78824347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6285">gaia-8S</tspan></text>
+    <text
+       id="text6263"
+       y="338.88168"
+       x="1288.1777"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6261"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:1.41111112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="338.88168"
+         x="1288.1777"
+         sodipodi:role="line">gaia-8S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.55676746px;line-height:38.27227402px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32544661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="872.89368"
+       y="605.70514"
+       id="text5331"
+       transform="scale(0.93084299,1.074295)"><tspan
+         sodipodi:role="line"
+         x="872.89368"
+         y="605.70514"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:11.55676746px;line-height:38.27227402px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.48521233px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:1.32544661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="tspan5329">http://gaianysus.com/</tspan></text>
+    <text
+       id="text5335"
+       y="588.10992"
+       x="1977.1892"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.26901531px;line-height:37.06472778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.28362691;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       xml:space="preserve"
+       transform="scale(0.89867341,1.1127513)"><tspan
+         id="tspan5333"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.26901531px;line-height:37.06472778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.40680027px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:1.28362691;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         y="588.10992"
+         x="1977.1892"
+         sodipodi:role="line">HTTP://GAIANYSUS.COM/</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5352"
+       style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:53.33333588px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.2916669,-192.08756)"><flowRegion
+         id="flowRegion5354"
+         style="font-size:53.33333588px;line-height:53.33333588px;fill:#ff00ff;stroke:#0000ff;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"><rect
+           id="rect5356"
+           width="1510.2295"
+           height="1053.5433"
+           x="1517.012"
+           y="1655.318"
+           style="font-size:53.33333588px;line-height:53.33333588px;fill:#ff00ff;stroke:#0000ff;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" /></flowRegion><flowPara
+         id="flowPara5358"
+         style="line-height:56px">The Gaia 8 is an advanced light composed of 8 90 Watt high intensity COB LEDs and 96 5 Watt spectrum LEDs. Which gives a full spectrum of light that includes lot’s of blue to keep your plants from getting too ‘leggy’ Gaia 8 and plenty of red to make your blooms dense and fragrant. The concentration is on the spectrums your plant absorbs and not the frequencies it reflects. This means less energy is wasted on light the plant does not use for photosynthesis and you waste less electricity on producing light frequencies your plant will never use.</flowPara></flowRoot>    <text
+       id="text5384"
+       y="-712.53357"
+       x="42.121704"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.44482803px;line-height:37.69930267px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.3056035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       xml:space="preserve"
+       transform="matrix(0,0.91596594,-1.0917436,0,0,0)"><tspan
+         id="tspan5382"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.44482803px;line-height:37.69930267px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.44800639px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:1.3056035;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         y="-712.53357"
+         x="42.121704"
+         sodipodi:role="line">HTTP://GAIANYSUS.COM/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="Endtitles-impact"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.37676239px;line-height:22.76052856px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.20207107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="815.96997"
+       y="267.73203"
+       id="text6299"><tspan
+         sodipodi:role="line"
+         x="815.96997"
+         y="267.73203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:22.76052856px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.47795641px;fill:#ff00ff;stroke:#0000ec;stroke-width:1.20207107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6297"
+         dx="0">Gaianysus</tspan></text>
+    <text
+       id="text6291"
+       y="273.07742"
+       x="1780.2784"
+       style="font-style:normal;font-weight:normal;font-size:28.37676239px;line-height:22.76052856px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.20207107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         dx="0"
+         id="tspan6289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:22.76052856px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.47795641px;fill:#ff00ff;stroke:#0000ec;stroke-width:1.20207107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="273.07742"
+         x="1780.2784"
+         sodipodi:role="line">Gaianysus</tspan></text>
+  </g>
+  <g
+     inkscape:label="Endtitles-Montserrat"
+     id="g4666"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <text
+       id="text4660"
+       y="257.04132"
+       x="849.9613"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.28568649px;line-height:21.88541222px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.15585279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.96001967,1.0416453)"><tspan
+         dx="0"
+         id="tspan4658"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.28568649px;line-height:21.88541222px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.42113066px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ec;stroke-width:1.15585279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="257.04132"
+         x="849.9613"
+         sodipodi:role="line">Gaianysus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.48811913px;line-height:22.04777908px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.16442811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1840.2263"
+       y="264.19366"
+       id="text4664"
+       transform="scale(0.96742794,1.0336687)"><tspan
+         sodipodi:role="line"
+         x="1840.2263"
+         y="264.19366"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.48811913px;line-height:22.04777908px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.431674px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ec;stroke-width:1.16442811;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4662"
+         dx="0">Gaianysus</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Title-Impact"
+     style="display:none">
+    <text
+       id="text6271"
+       y="325.29083"
+       x="99.407669"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.1519444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         dx="0"
+         id="tspan6269"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:'Impact Bold';letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:2.1519444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="325.29083"
+         x="99.407669"
+         sodipodi:role="line">Gaianysus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.1519444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1107.8481"
+       y="299.58844"
+       id="text6243"><tspan
+         sodipodi:role="line"
+         x="1107.8481"
+         y="299.58844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:2.1519444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6249"
+         dx="0">Gaianysus</tspan></text>
+    <text
+       id="text6279"
+       y="-114.32259"
+       x="-329.15634"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.1519444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(-1)"><tspan
+         dx="0"
+         id="tspan6277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:40.74583435px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.64583325px;fill:#ff00ff;stroke:#0000ec;stroke-width:2.1519444;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="-114.32259"
+         x="-329.15634"
+         sodipodi:role="line">Gaianysus</tspan></text>
+  </g>
+  <g
+     inkscape:label="Title-Montserrat"
+     id="g4651"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:49.74925995px;line-height:39.90305328px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.10743403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="101.60411"
+       y="318.30249"
+       id="text4641"
+       transform="scale(0.97847648,1.021997)"><tspan
+         sodipodi:role="line"
+         x="101.60411"
+         y="318.30249"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:49.74925995px;line-height:39.90305328px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.59110737px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ec;stroke-width:2.10743403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4639"
+         dx="0">Gaianysus</tspan></text>
+    <text
+       id="text4645"
+       y="290.77997"
+       x="1141.4907"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:49.36130524px;line-height:39.5918808px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.09099984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.97053885,1.0303555)"><tspan
+         dx="0"
+         id="tspan4643"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:49.36130524px;line-height:39.5918808px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.57090139px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ec;stroke-width:2.09099984;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="290.77997"
+         x="1141.4907"
+         sodipodi:role="line">Gaianysus</tspan></text>
+    <text
+       transform="scale(-0.92989853,-1.0753862)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:47.37113571px;line-height:37.99559784px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.00669384;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-355.13736"
+       y="-107.8217"
+       id="text4649"><tspan
+         sodipodi:role="line"
+         x="-355.13736"
+         y="-107.8217"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:47.37113571px;line-height:37.99559784px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.46724653px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ec;stroke-width:2.00669384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4647"
+         dx="0">Gaianysus</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Blue Text end">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="816.24109"
+       y="372.5166"
+       id="text6418"><tspan
+         sodipodi:role="line"
+         id="tspan6416"
+         x="816.24109"
+         y="372.5166"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">Dimensions                                                                         600 mm x 385 mm x 118 mm </tspan></text>
+    <text
+       id="text6352"
+       y="331.46976"
+       x="816.24109"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px"
+         y="331.46976"
+         x="816.24109"
+         id="tspan6350"
+         sodipodi:role="line">Height Above the Plant                                        PPFD (µmol/m2s)                 LUX </tspan></text>
+    <text
+       id="text6348"
+       y="315.8345"
+       x="816.24109"
+       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777778px;fill:#0000ff;stroke-width:0.26458332px;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         y="315.8345"
+         x="816.24109"
+         id="tspan6346"
+         sodipodi:role="line">Lighting Area                                                                                                          3.5m<tspan
+   style="font-size:3.52777778px;baseline-shift:super;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+   id="tspan6354">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="816.24109"
+       y="301.66922"
+       id="text6318"><tspan
+         sodipodi:role="line"
+         id="tspan6316"
+         x="816.24109"
+         y="301.66922"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">Equivalent to 1200 Watts outputs over 55,000 lumens while consuming only 750 Watts</tspan></text>
+    <text
+       id="text6438"
+       y="305.2222"
+       x="1780.8363"
+       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777778px;fill:#0000ff;stroke-width:0.26458332px;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         y="305.2222"
+         x="1780.8363"
+         id="tspan6436"
+         sodipodi:role="line">Spectrum is optimized for photosynthesis adjustable for vegtative and bloom growth                                                                                                            21050Lm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1780.8363"
+       y="322.15552"
+       id="text5587"><tspan
+         sodipodi:role="line"
+         id="tspan5585"
+         x="1780.8363"
+         y="322.15552"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">Accepts 100 Volts to 265 Volts for worldwide compatibility and can be daisy chained</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Pink Text end">
+    <text
+       id="text6362"
+       y="339.88876"
+       x="816.24109"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+         y="339.88876"
+         x="816.24109"
+         sodipodi:role="line"
+         id="tspan6370"><tspan
+           id="tspan6372"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+           dy="-0.27000001">30 cm    (center)                                                   1560   µmol/m2                     56712 lux</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="816.24109"
+       y="344.29871"
+       id="text6378"><tspan
+         id="tspan6376"
+         sodipodi:role="line"
+         x="816.24109"
+         y="344.29871"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan6374">60 cm    (center)                                                   1120   µmol/m2                     43789 lux</tspan></tspan></text>
+    <text
+       id="text6390"
+       y="349.10956"
+       x="816.24109"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+         y="349.10956"
+         x="816.24109"
+         sodipodi:role="line"
+         id="tspan6388"><tspan
+           id="tspan6386"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">90 cm    (center)                                                      780   µmol/m2                    25220 lux</tspan></tspan></text>
+    <text
+       id="text6396"
+       y="353.65314"
+       x="816.24109"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+         y="353.65314"
+         x="816.24109"
+         sodipodi:role="line"
+         id="tspan6394"><tspan
+           id="tspan6392"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">120 cm  (center)                                                      486   µmol/m2                    15890 lux</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="816.24109"
+       y="323.73029"
+       id="text6406"><tspan
+         id="tspan6404"
+         sodipodi:role="line"
+         x="816.24109"
+         y="323.73029"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">Compare the PAR values for photosynthetically active radiation  vs  Lumens</tspan></text>
+    <text
+       id="text6412"
+       y="308.61124"
+       x="816.24109"
+       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777778px;line-height:0px;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         y="308.61124"
+         x="816.24109"
+         sodipodi:role="line"
+         id="tspan6410">Electrical Characteristics                                      Voltage  AC 100 - 265    @ 50 / 60 Hz </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="816.24109"
+       y="358.41562"
+       id="text5569"><tspan
+         id="tspan5567"
+         sodipodi:role="line"
+         x="816.24109"
+         y="358.41562"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan5565">150 cm  (center)                                                      280   µmol/m2                      8506 lux</tspan></tspan></text>
+    <text
+       id="text5575"
+       y="363.1781"
+       x="816.24109"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
+         y="363.1781"
+         x="816.24109"
+         sodipodi:role="line"
+         id="tspan5573"><tspan
+           id="tspan5571"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">180 cm  (center)                                                      143   µmol/m2                      3489 lux</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="1780.8363"
+       y="313.689"
+       id="text6444"><tspan
+         sodipodi:role="line"
+         id="tspan6442"
+         x="1780.8363"
+         y="313.689"
+         style="font-size:3.52777778px;fill:#ff00ff;stroke:none;stroke-width:0.26458332px;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Removable optical lenses to adjust light dispersion angle to either 90° or 120°</tspan></text>
+    <text
+       id="text5593"
+       y="330.62231"
+       x="1780.8363"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px"
+         y="330.62231"
+         x="1780.8363"
+         id="tspan5591"
+         sodipodi:role="line">The COB LED is a relatively new offering in the field of light emitting diodes (LEDs),</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px"
+         y="337.23691"
+         x="1780.8363"
+         sodipodi:role="line"
+         id="tspan5595"> they the Chip-on-Board (COB). These are arrays of LEDs (typically 9 or more)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px"
+         y="343.85147"
+         x="1780.8363"
+         sodipodi:role="line"
+         id="tspan5597"> that are clustered very closely together. Then they are passed through a diffuser</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px"
+         y="350.46606"
+         x="1780.8363"
+         sodipodi:role="line"
+         id="tspan5599"> to evenly distribute the light, finally a reflector and a lens orient the light in the</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px"
+         y="357.08066"
+         x="1780.8363"
+         sodipodi:role="line"
+         id="tspan5601"> right direction to give your plants as much red and blue light as possible.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="qrcodes">
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
+       y="586.06067"
+       x="747.24353"
+       id="image4737"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
+       style="display:inline;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="53.429924"
+       width="53.429924" />
+    <image
+       width="44.37133"
+       height="44.37133"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
+       id="image4632"
+       x="1709.385"
+       y="598.10834"
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
+       y="395.74686"
+       x="1908.0851"
+       id="image4634"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-blue.png"
+       style="display:inline;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="19.733389"
+       width="19.733389" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="bluqrcodes 1"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/qrcodes/gaia8-pink.png"
+       y="598.10834"
+       x="1709.385"
+       id="image5527"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/qrcodes/gaia8-pink.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="44.771297"
+       width="44.771297" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="side blocks"
+     style="display:inline">
+    <rect
+       y="246.03963"
+       x="1478.0085"
+       height="25.797514"
+       width="287.40329"
+       id="rect6420"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32767916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="283.19009"
+       x="1478.0085"
+       height="25.797514"
+       width="287.40329"
+       id="rect6460"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32767916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.05069351px;line-height:16.08232689px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.84936959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1331.4081"
+       y="341.82028"
+       id="text6448"
+       transform="scale(1.1291899,0.88559064)"><tspan
+         sodipodi:role="line"
+         x="1331.4081"
+         y="341.82028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16.08232689px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.04430699px;fill:#0000ff;stroke:none;stroke-width:0.84936959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6446">  8   Advanced 90W COBs</tspan></text>
+    <rect
+       y="322.21146"
+       x="1478.0085"
+       height="25.797514"
+       width="287.40329"
+       id="rect6466"
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32767916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.05069351px;line-height:16.08232689px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.84936959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1326.1348"
+       y="299.36844"
+       id="text6464"
+       transform="scale(1.1291899,0.88559064)"><tspan
+         sodipodi:role="line"
+         x="1326.1348"
+         y="299.36844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16.08232689px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.04430699px;fill:#0000ff;stroke:none;stroke-width:0.84936959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6462">Immense 4' x 6' footprint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.05069351px;line-height:16.08232689px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.84936959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1331.4081"
+       y="386.603"
+       id="text6470"
+       transform="scale(1.1291899,0.88559064)"><tspan
+         sodipodi:role="line"
+         x="1331.4081"
+         y="386.603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16.08232689px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.04430699px;fill:#0000ff;stroke:none;stroke-width:0.84936959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6468">       Veg and Bloom mode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.05069351px;line-height:16.08232689px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.84936959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1331.4081"
+       y="429.45831"
+       id="text6476"
+       transform="scale(1.1291899,0.88559064)"><tspan
+         sodipodi:role="line"
+         x="1331.4081"
+         y="442.70795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16.08232689px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.04430699px;fill:#0000ff;stroke:none;stroke-width:0.84936959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan6474" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.32767916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect6478"
+       width="287.40329"
+       height="25.797514"
+       x="1478.0085"
+       y="359.78287" />
+    <text
+       transform="scale(1.1291899,0.88559064)"
+       id="text6482"
+       y="429.02792"
+       x="1331.4081"
+       style="font-style:normal;font-weight:normal;font-size:20.05069351px;line-height:16.08232689px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.84936959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6480"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16.08232689px;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:1.04430699px;fill:#0000ff;stroke:none;stroke-width:0.84936959;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="429.02792"
+         x="1331.4081"
+         sodipodi:role="line">          1200W equivalency</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="rohs">
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:1.18041563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4659"
+       width="120.2638"
+       height="19.841413"
+       x="1573.7037"
+       y="622.87872" />
+    <image
+       sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/rohs.png"
+       xlink:href="rohs.png"
+       y="621.57275"
+       x="1569.7094"
+       id="image4656"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="24.851631"
+       width="124.25817" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="8sR"
+     style="display:inline">
+    <image
+       sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8sR.png"
+       xlink:href="8sR.png"
+       y="375.37326"
+       x="979.18115"
+       id="image4677"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="243.94537"
+       width="516.09253" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="8sL"
+     style="display:inline">
+    <image
+       sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8s.png"
+       xlink:href="8s.png"
+       y="436.99976"
+       x="40.302097"
+       id="image4612"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="197.82834"
+       width="463.77722" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="logo2">
+    <image
+       width="26.725622"
+       height="26.63208"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       id="image4646"
+       x="819.09161"
+       y="263.32278"
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png" />
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       y="270.36908"
+       x="1783.5242"
+       id="image4650"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/Gaianysus-logoonly.png"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="26.63208"
+       width="26.725622" />
+  </g>
+</svg>
