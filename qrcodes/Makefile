@@ -1,15 +1,18 @@
 all: 4 6 8 4s 6s 8s
 
 4:
-	qrencode -o gaia4.png 'http://gaianysus.com/gaia-4/'
+	./q gaia-4
 6:
-	qrencode -o gaia6.png 'http://gaianysus.com/gaia-6/'
+	./q gaia-6
 8:
-	qrencode -o gaia8.png 'http://gaianysus.com/gaia-8/'
+	./q gaia-8
 
 4s:
-	qrencode -o gaia4.png 'http://gaianysus.com/gaia-4S/'
+	./q gaia-4s
 6s:
-	qrencode -o gaia6.png 'http://gaianysus.com/gaia-6S/'
+	./q gaia-6s
 8s:
-	qrencode -o gaia8.png 'http://gaianysus.com/gaia-8S/'
+	./q gaia-8s
+
+clean:
+	rm *.svg

@@ -1,0 +1,9 @@
+#!/bin/bash
+NOM=$1
+BLUE=0000FF
+FUSCIA=FF00FF
+QRENCODE1="qrencode --foreground ${BLUE} --background ${FUSCIA} -t SVG"
+QRENCODE2="qrencode --foreground ${FUSCIA} --background ${BLUE} -t SVG"
+
+${QRENCODE1}  -o ${NOM}-blue.svg 'http://gaianysus.com/${NOM}/'
+${QRENCODE2}  -o ${NOM}-fuscia.svg 'http://gaianysus.com/${NOM}/'
