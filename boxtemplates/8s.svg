@@ -85,11 +85,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67178376"
-     inkscape:cx="2571.5417"
-     inkscape:cy="1818.2204"
+     inkscape:zoom="0.9500457"
+     inkscape:cx="7161.424"
+     inkscape:cy="1782.8415"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer21"
+     inkscape:current-layer="layer16"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -123,19 +123,20 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/Noah8s colorful box-Dear Josh.jpg"
        xlink:href="Noah8s colorful box-Dear Josh.jpg"
-       y="-221.98248"
-       x="-1095.6653"
-       id="image4566"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="1946.402"
        height="788.50067"
-       width="1946.402" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4566"
+       x="-1095.6653"
+       y="-221.98248" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="nuBG"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        sodipodi:absref="/home/thoth/git/assets-gaianysus/boxtemplates/bg.png"
        y="-26.803486"
@@ -151,7 +152,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="blue blocks"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        y="335.04855"
        x="811.50769"
@@ -234,7 +236,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="pink blocks"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        y="300.87463"
        x="1773.6201"
@@ -282,7 +285,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="pink strips bottom"
-     style="display:none">
+     style="display:none"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.62085813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect5322"
@@ -301,7 +305,8 @@
   <g
      inkscape:label="blue strips bottom"
      id="g5330"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        y="659.03815"
        x="24.549433"
@@ -321,7 +326,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Logo"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        width="157.15315"
        height="156.6031"
@@ -357,7 +363,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="pics">
+     inkscape:label="pics"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/8888.jpg"
        y="539.1955"
@@ -394,7 +401,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:40.74583435px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -489,7 +497,7 @@
            y="1655.318"
            style="font-size:53.33333588px;line-height:53.33333588px;fill:#ff00ff;stroke:#0000ff;stroke-width:1.00157475;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" /></flowRegion><flowPara
          id="flowPara5358"
-         style="line-height:56px">The Gaia 8 is an advanced light composed of 8 90 Watt high intensity COB LEDs and 96 5 Watt spectrum LEDs. Which gives a full spectrum of light that includes lot’s of blue to keep your plants from getting too ‘leggy’ Gaia 8 and plenty of red to make your blooms dense and fragrant. The concentration is on the spectrums your plant absorbs and not the frequencies it reflects. This means less energy is wasted on light the plant does not use for photosynthesis and you waste less electricity on producing light frequencies your plant will never use.</flowPara></flowRoot>    <text
+         style="line-height:56px">The Gaia 8s is an advanced light composed of 8 90 Watt high intensity COB LEDs and 96 5 Watt spectrum LEDs. Which gives a full spectrum of light that includes lot’s of blue to keep your plants from getting too ‘leggy’ Gaia 8s and plenty of red to make your blooms dense and fragrant. The concentration is on the spectrums your plant absorbs and not the frequencies it reflects. This means less energy is wasted on light the plant does not use for photosynthesis and you waste less electricity on producing light frequencies your plant will never use.</flowPara></flowRoot>    <text
        transform="matrix(0,0.95139939,-1.0510833,0,0,0)"
        id="text181"
        y="-746.43036"
@@ -530,7 +538,8 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Endtitles-impact"
-     style="display:none">
+     style="display:none"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.37676239px;line-height:22.76052856px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:1.20207107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -560,7 +569,8 @@
      inkscape:label="Endtitles-Montserrat"
      id="g4666"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        id="text4660"
        y="257.04132"
@@ -592,7 +602,8 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="Title-Impact"
-     style="display:none">
+     style="display:none"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        id="text6271"
        y="325.29083"
@@ -635,7 +646,8 @@
      inkscape:label="Title-Montserrat"
      id="g4651"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:49.74925995px;line-height:39.90305328px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ec;stroke-width:2.10743403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -679,7 +691,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="Blue Text end">
+     inkscape:label="Blue Text end"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -701,7 +714,7 @@
          y="331.46976"
          x="818.88696"
          id="tspan6350"
-         sodipodi:role="line">Height Above the Plant                                        PPFD (µmol/m2s)                 LUX </tspan></text>
+         sodipodi:role="line">Height Above the Plant                                        PAR   (µmol/m2s)                        LUX </tspan></text>
     <text
        id="text6348"
        y="315.8345"
@@ -725,18 +738,18 @@
          id="tspan6316"
          x="818.88696"
          y="301.66922"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">Equivalent to 1200 Watts outputs over 55,000 lumens while consuming only 750 Watts</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">Equivalent to 1200 Watts outputs over 21,000 lumens while consuming only 750 Watts</tspan></text>
     <text
        id="text6438"
        y="305.2222"
        x="1780.8363"
-       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:3.52777778px;fill:#0000ff;stroke-width:0.26458332px;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px"
          y="305.2222"
          x="1780.8363"
          id="tspan6436"
-         sodipodi:role="line">Spectrum is optimized for photosynthesis adjustable for vegtative and bloom growth                                                                                                            21050Lm</tspan></text>
+         sodipodi:role="line">Spectrum is optimized for photosynthesis adjustable for vegtative and bloom growth</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -752,7 +765,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="Pink Text end">
+     inkscape:label="Pink Text end"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <text
        id="text6362"
        y="339.88876"
@@ -766,7 +780,7 @@
          id="tspan6370"><tspan
            id="tspan6372"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
-           dy="-0.27000001">30 cm    (center)                                                   1560   µmol/m2                     56712 lux</tspan></tspan></text>
+           dy="-0.27000001">30 cm    (11.8&quot;)                                                      1560   µmol/m2                    56712 lux</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -779,7 +793,7 @@
          y="344.29871"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
-           id="tspan6374">60 cm    (center)                                                   1120   µmol/m2                     43789 lux</tspan></tspan></text>
+           id="tspan6374">60 cm    (23.6&quot;)                                                      1120   µmol/m2                    43789 lux</tspan></tspan></text>
     <text
        id="text6390"
        y="349.10956"
@@ -792,7 +806,7 @@
          sodipodi:role="line"
          id="tspan6388"><tspan
            id="tspan6386"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">90 cm    (center)                                                      780   µmol/m2                    25220 lux</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">90 cm    (35.4&quot;)                                                        780   µmol/m2                    25220 lux</tspan></tspan></text>
     <text
        id="text6396"
        y="353.65314"
@@ -805,7 +819,7 @@
          sodipodi:role="line"
          id="tspan6394"><tspan
            id="tspan6392"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">120 cm  (center)                                                      486   µmol/m2                    15890 lux</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">120 cm  (47.2&quot;)                                                        486   µmol/m2                    15890 lux</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -840,7 +854,7 @@
          y="358.41562"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none"
-           id="tspan5565">150 cm  (center)                                                      280   µmol/m2                      8506 lux</tspan></tspan></text>
+           id="tspan5565">150 cm  (59.1&quot;)                                                        280   µmol/m2                      8506 lux</tspan></tspan></text>
     <text
        id="text5575"
        y="363.1781"
@@ -853,10 +867,10 @@
          sodipodi:role="line"
          id="tspan5573"><tspan
            id="tspan5571"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">180 cm  (center)                                                      143   µmol/m2                      3489 lux</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:#0000ff;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none">180 cm  (70.9&quot;)                                                        143   µmol/m2                      3489 lux</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-weight:bold;font-size:3.52777778px;line-height:6.61458302px;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;line-height:6.61458302px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1780.8363"
        y="313.689"
        id="text6444"><tspan
@@ -864,7 +878,7 @@
          id="tspan6442"
          x="1780.8363"
          y="313.689"
-         style="font-size:3.52777778px;fill:#ff00ff;stroke:none;stroke-width:0.26458332px;-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-family:'DejaVu Sans';font-weight:bold;font-style:normal;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Removable optical lenses to adjust light dispersion angle to either 90° or 120°</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:3.52777767px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke:none;stroke-width:0.26458332px">Removable optical lenses to adjust light dispersion angle to either 90° or 120°</tspan></text>
     <text
        id="text5593"
        y="330.62231"
@@ -900,7 +914,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer14"
-     inkscape:label="qrcodes">
+     inkscape:label="qrcodes"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <g
        id="QRcode"
        transform="matrix(1.6065815,0,0,1.6065815,747.65626,586.4734)">
@@ -3192,12 +3207,14 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="bluqrcodes 1"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)" />
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="side blocks"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        y="246.03963"
        x="1478.0085"
@@ -3290,7 +3307,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="rohs">
+     inkscape:label="rohs"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <rect
        style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ff00ff;stroke-width:1.18041563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect4659"
@@ -3301,13 +3319,13 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/rohs.png"
        xlink:href="rohs.png"
-       y="621.57275"
-       x="1569.7094"
-       id="image4656"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="124.25817"
        height="24.851631"
-       width="124.25817" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4656"
+       x="1569.7094"
+       y="621.57275" />
     <rect
        y="619.70367"
        x="621.20636"
@@ -3318,50 +3336,53 @@
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/rohs.png"
        xlink:href="rohs.png"
-       width="124.25817"
-       height="24.851631"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image207"
+       y="618.39771"
        x="617.21198"
-       y="618.39771" />
+       id="image207"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="24.851631"
+       width="124.25817" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="8sR"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8sR.png"
        xlink:href="8sR.png"
-       y="375.37326"
-       x="979.18115"
-       id="image4677"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="516.09253"
        height="243.94537"
-       width="516.09253" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4677"
+       x="979.18115"
+       y="375.37326" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="8sL"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        sodipodi:absref="/mnt/unreal/git/assets-gaianysus/boxtemplates/8s.png"
        xlink:href="8s.png"
-       y="436.99976"
-       x="40.302097"
-       id="image4612"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="463.77722"
        height="197.82834"
-       width="463.77722" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4612"
+       x="40.302097"
+       y="436.99976" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="logo2">
+     inkscape:label="logo2"
+     transform="translate(-1.6796875e-5,2.9101562e-6)">
     <image
        width="26.725622"
        height="26.63208"
